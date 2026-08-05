@@ -1,17 +1,11 @@
-# House Price Prediction
+# Machine Learning
 
-## Dataset
-Kaggle House Prices - Advanced Regression Techniques
+This repository contains my Machine Learning learning journey.
 
-## Progress
+## Topics
+- NumPy
+- Pandas
+- Matplotlib
 
-### EDA
-- Dataset loaded
-- Mean of SalePrice
-- Median of SalePrice
-- Skewness
-
-## Next Steps
-- Linear Regression
-- Feature Engineering
-- Model Evaluation
+## Projects
+- House Price Prediction
